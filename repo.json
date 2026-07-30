@@ -1,0 +1,109 @@
+{
+  "name": "Harbor Priority Manga Sources (Arabic + English)",
+  "plugins": [
+    {
+      "id": "teamx-ar",
+      "name": "Team X (Arabic)",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/teamx-ar.plugin.js"
+    },
+    {
+      "id": "azora-ar",
+      "name": "Azora (Arabic)",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/azora-ar.plugin.js"
+    },
+    {
+      "id": "manga-starz-ar",
+      "name": "Manga Starz (Arabic)",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/manga-starz-ar.plugin.js"
+    },
+    {
+      "id": "mangalek-ar",
+      "name": "مانجا ليك",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/mangalek-ar.plugin.js"
+    },
+    {
+      "id": "mangalink-ar",
+      "name": "مانجا لينك",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/mangalink-ar.plugin.js"
+    },
+    {
+      "id": "manga-online-ar",
+      "name": "مانجا اون لاين",
+      "version": "0.2.0",
+      "lang": "ar",
+      "nsfw": false,
+      "entry": "plugins/manga-online-ar.plugin.js"
+    },
+    {
+      "id": "comick-unoriginal-en",
+      "name": "ComicK (Unoriginal)",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": true,
+      "entry": "plugins/comick-unoriginal-en.plugin.js"
+    },
+    {
+      "id": "comick-fanmade-en",
+      "name": "ComicK Fanmade",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": true,
+      "entry": "plugins/comick-fanmade-en.plugin.js"
+    },
+    {
+      "id": "likemanga-en",
+      "name": "LikeManga",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "plugins/likemanga-en.plugin.js"
+    },
+    {
+      "id": "linkmanga-en",
+      "name": "LinkManga",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": true,
+      "entry": "plugins/linkmanga-en.plugin.js"
+    },
+    {
+      "id": "manganato-en",
+      "name": "Manganato",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": true,
+      "entry": "plugins/manganato-en.plugin.js"
+    },
+    {
+      "id": "mangapill-en",
+      "name": "MangaPill",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "plugins/mangapill-en.plugin.js"
+    },
+    {
+      "id": "webtoons-en",
+      "name": "Webtoons.com",
+      "version": "0.2.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "plugins/webtoons-en.plugin.js"
+    }
+  ]
+}
