@@ -7,7 +7,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/teamx-ar.plugin.js"
+      "entry": "teamx-ar.plugin.js"
     },
     {
       "id": "azora-ar",
@@ -15,7 +15,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/azora-ar.plugin.js"
+      "entry": "azora-ar.plugin.js"
     },
     {
       "id": "manga-starz-ar",
@@ -23,7 +23,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/manga-starz-ar.plugin.js"
+      "entry": "manga-starz-ar.plugin.js"
     },
     {
       "id": "mangalek-ar",
@@ -31,7 +31,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/mangalek-ar.plugin.js"
+      "entry": "mangalek-ar.plugin.js"
     },
     {
       "id": "mangalink-ar",
@@ -39,7 +39,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/mangalink-ar.plugin.js"
+      "entry": "mangalink-ar.plugin.js"
     },
     {
       "id": "manga-online-ar",
@@ -47,7 +47,7 @@
       "version": "0.2.0",
       "lang": "ar",
       "nsfw": false,
-      "entry": "plugins/manga-online-ar.plugin.js"
+      "entry": "manga-online-ar.plugin.js"
     },
     {
       "id": "comick-unoriginal-en",
@@ -55,7 +55,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": true,
-      "entry": "plugins/comick-unoriginal-en.plugin.js"
+      "entry": "comick-unoriginal-en.plugin.js"
     },
     {
       "id": "comick-fanmade-en",
@@ -63,7 +63,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": true,
-      "entry": "plugins/comick-fanmade-en.plugin.js"
+      "entry": "comick-fanmade-en.plugin.js"
     },
     {
       "id": "likemanga-en",
@@ -71,7 +71,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": false,
-      "entry": "plugins/likemanga-en.plugin.js"
+      "entry": "likemanga-en.plugin.js"
     },
     {
       "id": "linkmanga-en",
@@ -79,7 +79,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": true,
-      "entry": "plugins/linkmanga-en.plugin.js"
+      "entry": "linkmanga-en.plugin.js"
     },
     {
       "id": "manganato-en",
@@ -87,7 +87,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": true,
-      "entry": "plugins/manganato-en.plugin.js"
+      "entry": "manganato-en.plugin.js"
     },
     {
       "id": "mangapill-en",
@@ -95,7 +95,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": false,
-      "entry": "plugins/mangapill-en.plugin.js"
+      "entry": "mangapill-en.plugin.js"
     },
     {
       "id": "webtoons-en",
@@ -103,7 +103,7 @@
       "version": "0.2.0",
       "lang": "en",
       "nsfw": false,
-      "entry": "plugins/webtoons-en.plugin.js"
+      "entry": "webtoons-en.plugin.js"
     }
   ]
 }
